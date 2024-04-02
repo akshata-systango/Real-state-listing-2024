@@ -9,7 +9,7 @@ const App = () => {
     Router.push("/signup");
   }, []);
 
-  return <div></div>;
+  return <></>;
 };
 
 export default App;
